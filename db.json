@@ -1,0 +1,22 @@
+{
+  "EmployData": [
+    {
+      "username": "191990",
+      "age": "3",
+      "address": "3dd",
+      "maritalState": true,
+      "Department": "it",
+      "salary": "333",
+      "id": 1
+    },
+    {
+      "username": "191990",
+      "age": "3",
+      "address": "3dd",
+      "maritalState": true,
+      "Department": "it",
+      "salary": "333",
+      "id": 2
+    }
+  ]
+}
